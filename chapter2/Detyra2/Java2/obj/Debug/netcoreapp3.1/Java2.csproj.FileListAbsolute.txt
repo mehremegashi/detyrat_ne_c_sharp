@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\c#\Java2\Java2\bin\Debug\netcoreapp3.1\Java2.exe
+C:\Users\Dell\Desktop\c#\Java2\Java2\bin\Debug\netcoreapp3.1\Java2.deps.json
+C:\Users\Dell\Desktop\c#\Java2\Java2\bin\Debug\netcoreapp3.1\Java2.runtimeconfig.json
+C:\Users\Dell\Desktop\c#\Java2\Java2\bin\Debug\netcoreapp3.1\Java2.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\c#\Java2\Java2\bin\Debug\netcoreapp3.1\Java2.dll
+C:\Users\Dell\Desktop\c#\Java2\Java2\bin\Debug\netcoreapp3.1\Java2.pdb
+C:\Users\Dell\Desktop\c#\Java2\Java2\obj\Debug\netcoreapp3.1\Java2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\c#\Java2\Java2\obj\Debug\netcoreapp3.1\Java2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\c#\Java2\Java2\obj\Debug\netcoreapp3.1\Java2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c#\Java2\Java2\obj\Debug\netcoreapp3.1\Java2.dll
+C:\Users\Dell\Desktop\c#\Java2\Java2\obj\Debug\netcoreapp3.1\Java2.pdb
+C:\Users\Dell\Desktop\c#\Java2\Java2\obj\Debug\netcoreapp3.1\Java2.genruntimeconfig.cache
