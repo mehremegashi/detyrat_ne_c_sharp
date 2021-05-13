@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\bin\Debug\netcoreapp3.1\detyra4.exe
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\bin\Debug\netcoreapp3.1\detyra4.deps.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\bin\Debug\netcoreapp3.1\detyra4.runtimeconfig.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\bin\Debug\netcoreapp3.1\detyra4.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\bin\Debug\netcoreapp3.1\detyra4.dll
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\bin\Debug\netcoreapp3.1\detyra4.pdb
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\obj\Debug\netcoreapp3.1\detyra4.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\obj\Debug\netcoreapp3.1\detyra4.AssemblyInfo.cs
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\obj\Debug\netcoreapp3.1\detyra4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\obj\Debug\netcoreapp3.1\detyra4.dll
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\obj\Debug\netcoreapp3.1\detyra4.pdb
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra4\detyra4\obj\Debug\netcoreapp3.1\detyra4.genruntimeconfig.cache
