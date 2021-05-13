@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\bin\Debug\netcoreapp3.1\detyra1.exe
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\bin\Debug\netcoreapp3.1\detyra1.deps.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\bin\Debug\netcoreapp3.1\detyra1.runtimeconfig.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\bin\Debug\netcoreapp3.1\detyra1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\bin\Debug\netcoreapp3.1\detyra1.dll
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\bin\Debug\netcoreapp3.1\detyra1.pdb
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.dll
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.pdb
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter5\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.genruntimeconfig.cache
