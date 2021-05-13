@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.exe
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.deps.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.runtimeconfig.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.dll
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.pdb
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.AssemblyInfo.cs
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.dll
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.pdb
+C:\Users\Dell\Desktop\universum\semestri 2\hyrje ne strukturen e te dhenave\detyrat\chapter3\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.genruntimeconfig.cache
